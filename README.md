@@ -4,6 +4,7 @@ Projeto para criar uma landpage para captar leads de possíveis compradores da p
 Utilizei as seguintes linguagens de marcação:
 - HTML 5: para estruturar o esqueleto da página
 - CSS 3: para estilizar a página.
+ * Flexbox e Grid: para colocar os elementos como botões, textos e imagens nos locais desejados.
 
 Resultado do trabalho
 
