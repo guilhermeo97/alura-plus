@@ -8,5 +8,7 @@ Utilizei as seguintes linguagens de marcação:
 
 Resultado do trabalho
 
+v 1.0 - versão desktop, sem responsividade configurada
+
 ![image](https://user-images.githubusercontent.com/55219644/217395300-86db3c30-1a20-48d1-b422-a7bcd5acf1e4.png)
 
